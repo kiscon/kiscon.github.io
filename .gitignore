@@ -1,0 +1,22 @@
+node_modules
+.DS_Store
+# dist
+dist-ssr
+*.local
+.history
+.svn
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.local
+*.vscode
+
+stats.html
+pnpm-lock.yaml
+package-lock.json
+
+*.husky
